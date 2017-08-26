@@ -8,7 +8,7 @@ Join our [group on Facebook](https://www.facebook.com/dronesdontfly) for the lat
 
 # Version
 
-v. 10.2
+10.2
 
 # License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
